@@ -1,3 +1,3 @@
 # GitHub course
 
-Text
+Its my first working repository!
