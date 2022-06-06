@@ -1,0 +1,1 @@
+document.body.innerHTML='Hi Petro, its JS';
